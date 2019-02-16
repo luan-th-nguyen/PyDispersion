@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DateStarted</key>
+	<date>2018-02-08T07:53:15Z</date>
+	<key>FileID</key>
+	<integer>2783655</integer>
+	<key>NameSpaceID</key>
+	<integer>4053786403</integer>
+	<key>NewPath</key>
+	<string>Users/luan/SIMS/SPECFEM3D/RTM_pipe/pipe_sim_1ring_crack2_NR24_supershot/dispersion_analysis_data/OUTPUT_FILES_L01/DATABASES_MPI</string>
+	<key>SourcePath</key>
+	<string>Users/luan/SIMS/SPECFEM3D/RTM_pipe/pipe_sim_1ring_crack2_NR24_supershot/dispersion_analysis_data/OUTPUT_FILES/DATABASES_MPI</string>
+</dict>
+</plist>
