@@ -7,10 +7,10 @@ For example, this section of sthe strongly dispersive guided waves propagating i
 will be converted in to the below dispersion image in which the main propagation mode as well as its wave speed can be read.
 ![alt text](./demos/guided_waves_pipe/pipe_syn_dispersion_curves_L01.png)
 
-The package is used to generate dispersion curves of the cylindrically guided ultrasonic waves propagating in pipes reported in the conference paper:
+The package is used to generate dispersion curves of the cylindrically guided ultrasonic waves propagating in pipes reported in the conference paper. 
 Luan T. Nguyen, Georg K. Kocur, Erik H. Saenger. Ultrasonic pipe inspection by forward-reverse wavefield cross-correlation. 2nd Int. Symposium on SHM and NDT, Saarbrücken, Germany; 10/2018.
 
-The below two methods are currently available in PyDispersion:
+Although not tested yet, it is expected that the dispersion curves of Lamb waves and surface waves can be revealed by PyDispersion as well. The below two methods are currently available in PyDispersion:
 1. The phase shift method described in:
 Park, C.B., Miller, R.D. and Xia, J., 1998, January. Imaging dispersion curves of surface waves on multi-channel record. In 1998 SEG Annual Meeting. Society of Exploration Geophysicists.
 2. The slant stack method described in:
