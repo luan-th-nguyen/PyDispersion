@@ -5,9 +5,9 @@ The package is used to generate dispersion curves of the cylindrically guided ul
 Luan T. Nguyen, Georg K. Kocur, Erik H. Saenger. Ultrasonic pipe inspection by forward-reverse wavefield cross-correlation. 2nd Int. Symposium on SHM and NDT, Saarbrücken, Germany; 10/2018.
 
 The below two methods are currently available in PyDispersion:
-1. The phase shift method is described in:
+1. The phase shift method described in:
 Park, C.B., Miller, R.D. and Xia, J., 1998, January. Imaging dispersion curves of surface waves on multi-channel record. In 1998 SEG Annual Meeting. Society of Exploration Geophysicists.
-2. The slant stack method is described in:
+2. The slant stack method described in:
 McMechan, G.A. and Yedlin, M.J., 1981. Analysis of dispersive waves by wave field transformation. Geophysics, 46(6), pp.869-874.
 
 Available test data:
