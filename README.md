@@ -11,8 +11,8 @@ Park, C.B., Miller, R.D. and Xia, J., 1998, January. Imaging dispersion curves o
 McMechan, G.A. and Yedlin, M.J., 1981. Analysis of dispersive waves by wave field transformation. Geophysics, 46(6), pp.869-874.
 
 Available test data:
-guided_waves_pipe: wave dispersion due to elastic waves guided in a pipe
-viscoelastic_waves: wave dispersion due to viscoelasticity
+guided_waves_pipe: wave dispersion due to elastic waves guided in a pipe,
+viscoelastic_waves: wave dispersion due to viscoelasticity.
 
 To run one of the tests (on a system with standard Python and with obspy installed), change directory to the selected test under 'demos' and execute the Python script, for example:
 $cd demos/guided_waves_pipe
