@@ -1,7 +1,7 @@
 # PyDispersion
 PyDispersion is a small package written in Python that reveals the dispersion curves of seismic array or ultrasonic phased array data. 
 
-For example, this section of sthe strongly dispersive guided waves propagating in a thinned-wall pipe
+For example, this section of the below strongly dispersive guided waves propagating in a thinned-wall pipe
 ![alt text](./demos/guided_waves_pipe/traces_supershot_dispersion_analysis_L01.png)
 
 will be converted in to the below dispersion image in which the main propagation mode as well as its wave speed can be read.
